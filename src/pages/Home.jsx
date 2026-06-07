@@ -18,7 +18,7 @@ const Home = () => {
             <span className="text-pink-600 dark:text-pink-400 ">Gianna Cristina Reyes</span>
           </h1>
           <p className="text-xl sm:text-2xl text-gray-600 dark:text-white mb-8 max-w-2xl mx-auto">
-            A passionate developer creating beautiful web experiences
+           A Computer Science student exploring cybersecurity, machine learning, data analytics, and system development to solve real-world problems.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
