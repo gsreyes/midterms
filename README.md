@@ -1,1 +1,1 @@
-Production link: https://github.com/gsreyes/midterms
+Production link: https://gsreyes.github.io/midterms/
